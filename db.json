@@ -160,5 +160,27 @@
       "print": "stripes",
       "id": 11
     }
-  ]  
+  ],
+  "cart":[
+  {
+      "whom": "women",
+      "category": "clothing",
+      "title": "STELLA McCARTNEY",
+      "type": "Sweaters",
+      "price": "1027.00",
+      "offer": "34",
+      "size": "38",
+      "image_1": "https://www.yoox.com/images/items/14/14295830IB_14_f.jpg?impolicy=crop&width=387&height=490",
+      "image_2": "https://www.yoox.com/images/items/14/14295830IB_14_r.jpg?impolicy=crop&width=387&height=490",
+      "image_3": "https://www.yoox.com/images/items/14/14295830IB_14_d.jpg?impolicy=crop&width=387&height=490",
+      "image_4": "https://www.yoox.com/images/items/14/14295830IB_14_a.jpg?impolicy=crop&width=387&height=490",
+      "tag": "",
+      "color": "pink",
+      "sleeve": "long_sleeve",
+      "zip_structure": "",
+      "materials": "wool",
+      "print": "stripes",
+      "id": 1
+    },
+  ]
 }
