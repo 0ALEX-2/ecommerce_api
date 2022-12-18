@@ -161,7 +161,7 @@
       "id": 11
     }
   ],
-  "cart":[
+  "cart": [
   {
       "whom": "women",
       "category": "clothing",
@@ -181,6 +181,6 @@
       "materials": "wool",
       "print": "stripes",
       "id": 1
-    },
+    }
   ]
 }
