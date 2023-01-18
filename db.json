@@ -1,267 +1,1781 @@
 {
-  "products": [
+  "saree" :[
     {
-      "for_whom": "women",
-      "category": "clothing",
-      "title": "STELLA McCARTNEY",
-      "type": "Sweaters",
-      "price": "1027.00",
-      "offer": "34",
-      "size": "38",
-      "image_1": "https://www.yoox.com/images/items/14/14295830IB_14_f.jpg?impolicy=crop&width=387&height=490",
-      "image_2": "https://www.yoox.com/images/items/14/14295830IB_14_r.jpg?impolicy=crop&width=387&height=490",
-      "image_3": "https://www.yoox.com/images/items/14/14295830IB_14_d.jpg?impolicy=crop&width=387&height=490",
-      "image_4": "https://www.yoox.com/images/items/14/14295830IB_14_a.jpg?impolicy=crop&width=387&height=490",
-      "tag": "",
-      "color": "pink",
-      "sleeve": "long_sleeve",
-      "zip_structure": "",
-      "materials": "wool",
-      "print": "stripes",
-      "id": 4
+        "image": "https://www.jiomart.com/images/product/330x410/rvqp2pl1uu/saadhvi-women-blue-printed-art-silk-single-sarees-product-images-rvqp2pl1uu-0-202206012320.jpg",
+        "discount": 91,
+        "name": "SAADHVI Women Blue Printed Art Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 249.00",
+        "og_price": "₹ 2999.00",
+        "id": 1
     },
     {
-      "for_whom": "women",
-      "category": "clothing",
-      "title": "STELLA McCARTNEY",
-      "type": "Sweaters",
-      "price": "1027.00",
-      "offer": "34",
-      "size": "38",
-      "image_1": "https://www.yoox.com/images/items/14/14295830IB_14_f.jpg?impolicy=crop&width=387&height=490",
-      "image_2": "https://www.yoox.com/images/items/14/14295830IB_14_r.jpg?impolicy=crop&width=387&height=490",
-      "image_3": "https://www.yoox.com/images/items/14/14295830IB_14_d.jpg?impolicy=crop&width=387&height=490",
-      "image_4": "https://www.yoox.com/images/items/14/14295830IB_14_a.jpg?impolicy=crop&width=387&height=490",
-      "tag": "",
-      "color": "pink",
-      "sleeve": "long_sleeve",
-      "zip_structure": "",
-      "materials": "wool",
-      "print": "stripes",
-      "id": 5
+        "image": "https://www.jiomart.com/images/product/330x410/rvypvdgdne/baps-women-multicolor-striped-art-silk-single-saree-product-images-rvypvdgdne-0-202201171726.jpg",
+        "discount": 91,
+        "name": "Baps Women Multicolor Striped Art Silk Single Saree",
+        "brand": "Baps",
+        "dis_price": "₹ 249.00",
+        "og_price": "₹ 3099.00",
+        "id": 2
     },
     {
-      "for_whom": "women",
-      "category": "clothing",
-      "title": "STELLA McCARTNEY",
-      "type": "Sweaters",
-      "price": "1027.00",
-      "offer": "34",
-      "size": "38",
-      "image_1": "https://www.yoox.com/images/items/14/14295830IB_14_f.jpg?impolicy=crop&width=387&height=490",
-      "image_2": "https://www.yoox.com/images/items/14/14295830IB_14_r.jpg?impolicy=crop&width=387&height=490",
-      "image_3": "https://www.yoox.com/images/items/14/14295830IB_14_d.jpg?impolicy=crop&width=387&height=490",
-      "image_4": "https://www.yoox.com/images/items/14/14295830IB_14_a.jpg?impolicy=crop&width=387&height=490",
-      "tag": "",
-      "color": "pink",
-      "sleeve": "long_sleeve",
-      "zip_structure": "",
-      "materials": "wool",
-      "print": "stripes",
-      "id": 6
+        "image": "https://www.jiomart.com/images/product/330x410/rvi3vqrpdc/face-deal-saree-women-pink-woven-silk-blend-banarasi-saree-product-images-rvi3vqrpdc-0-202210020432.jpg",
+        "discount": 72,
+        "name": "FACE DEAL Saree Women Pink Woven Silk Blend Banarasi Saree",
+        "brand": "FACE DEAL",
+        "dis_price": "₹ 549.00",
+        "og_price": "₹ 1999.00",
+        "id": 3
     },
     {
-      "for_whom": "women",
-      "category": "clothing",
-      "title": "STELLA McCARTNEY",
-      "type": "Sweaters",
-      "price": "1027.00",
-      "offer": "34",
-      "size": "38",
-      "image_1": "https://www.yoox.com/images/items/14/14295830IB_14_f.jpg?impolicy=crop&width=387&height=490",
-      "image_2": "https://www.yoox.com/images/items/14/14295830IB_14_r.jpg?impolicy=crop&width=387&height=490",
-      "image_3": "https://www.yoox.com/images/items/14/14295830IB_14_d.jpg?impolicy=crop&width=387&height=490",
-      "image_4": "https://www.yoox.com/images/items/14/14295830IB_14_a.jpg?impolicy=crop&width=387&height=490",
-      "tag": "",
-      "color": "pink",
-      "sleeve": "long_sleeve",
-      "zip_structure": "",
-      "materials": "wool",
-      "print": "stripes",
-      "id": 7
+        "image": "https://www.jiomart.com/images/product/330x410/rv2kbe9zpb/siril-women-yellow-printed-poly-silk-single-saree-product-images-rv2kbe9zpb-0-202202250402.jpg",
+        "discount": 81,
+        "name": "Siril Women Yellow Printed Poly Silk Saree",
+        "brand": "SIRIL",
+        "dis_price": "₹ 225.00",
+        "og_price": "₹ 1240.00",
+        "id": 4
     },
     {
-      "for_whom": "women",
-      "category": "clothing",
-      "title": "STELLA McCARTNEY",
-      "type": "Sweaters",
-      "price": "1027.00",
-      "offer": "34",
-      "size": "38",
-      "image_1": "https://www.yoox.com/images/items/14/14295830IB_14_f.jpg?impolicy=crop&width=387&height=490",
-      "image_2": "https://www.yoox.com/images/items/14/14295830IB_14_r.jpg?impolicy=crop&width=387&height=490",
-      "image_3": "https://www.yoox.com/images/items/14/14295830IB_14_d.jpg?impolicy=crop&width=387&height=490",
-      "image_4": "https://www.yoox.com/images/items/14/14295830IB_14_a.jpg?impolicy=crop&width=387&height=490",
-      "tag": "",
-      "color": "pink",
-      "sleeve": "long_sleeve",
-      "zip_structure": "",
-      "materials": "wool",
-      "print": "stripes",
-      "id": 8
+        "image": "https://www.jiomart.com/images/product/330x410/rvebuqpdei/rooptara-women-pink-beige-cotton-silk-printed-saree-product-images-rvebuqpdei-0-202210070815.jpg",
+        "discount": 83,
+        "name": "Rooptara Women Pink, Beige Cotton Silk Printed Saree",
+        "brand": "ROOPTARA",
+        "dis_price": "₹ 249.00",
+        "og_price": "₹ 1497.00",
+        "id": 5
     },
     {
-      "for_whom": "women",
-      "category": "clothing",
-      "title": "STELLA McCARTNEY",
-      "type": "Sweaters",
-      "price": "1027.00",
-      "offer": "34",
-      "size": "38",
-      "image_1": "https://www.yoox.com/images/items/14/14295830IB_14_f.jpg?impolicy=crop&width=387&height=490",
-      "image_2": "https://www.yoox.com/images/items/14/14295830IB_14_r.jpg?impolicy=crop&width=387&height=490",
-      "image_3": "https://www.yoox.com/images/items/14/14295830IB_14_d.jpg?impolicy=crop&width=387&height=490",
-      "image_4": "https://www.yoox.com/images/items/14/14295830IB_14_a.jpg?impolicy=crop&width=387&height=490",
-      "tag": "",
-      "color": "pink",
-      "sleeve": "long_sleeve",
-      "zip_structure": "",
-      "materials": "wool",
-      "print": "stripes",
-      "id": 9
+        "image": "https://www.jiomart.com/images/product/330x410/rvxal0iqzl/vkaran-women-purple-kalamkari-bhagalpuri-silk-single-saree-product-images-rvxal0iqzl-0-202210161529.jpg",
+        "discount": 85,
+        "name": "Vkaran Women Purple Kalamkari Bhagalpuri Silk Single Saree",
+        "brand": "VKARAN",
+        "dis_price": "₹ 299.00",
+        "og_price": "₹ 1999.00",
+        "id": 6
     },
     {
-      "for_whom": "women",
-      "category": "clothing",
-      "title": "STELLA McCARTNEY",
-      "type": "Sweaters",
-      "price": "1027.00",
-      "offer": "34",
-      "size": "38",
-      "image_1": "https://www.yoox.com/images/items/14/14295830IB_14_f.jpg?impolicy=crop&width=387&height=490",
-      "image_2": "https://www.yoox.com/images/items/14/14295830IB_14_r.jpg?impolicy=crop&width=387&height=490",
-      "image_3": "https://www.yoox.com/images/items/14/14295830IB_14_d.jpg?impolicy=crop&width=387&height=490",
-      "image_4": "https://www.yoox.com/images/items/14/14295830IB_14_a.jpg?impolicy=crop&width=387&height=490",
-      "tag": "",
-      "color": "pink",
-      "sleeve": "long_sleeve",
-      "zip_structure": "",
-      "materials": "wool",
-      "print": "stripes",
-      "id": 10
+        "image": "https://www.jiomart.com/images/product/330x410/rvylk4nt3l/saadhvi-women-grey-striped-cotton-silk-single-sarees-product-images-rvylk4nt3l-0-202206020120.jpg",
+        "discount": 86,
+        "name": "SAADHVI Women Grey Striped Cotton Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 159.00",
+        "og_price": "₹ 1196.00",
+        "id": 7
     },
     {
-      "for_whom": "women",
-      "category": "clothing",
-      "title": "STELLA McCARTNEY",
-      "type": "Sweaters",
-      "price": "1027.00",
-      "offer": "34",
-      "size": "38",
-      "image_1": "https://www.yoox.com/images/items/14/14295830IB_14_f.jpg?impolicy=crop&width=387&height=490",
-      "image_2": "https://www.yoox.com/images/items/14/14295830IB_14_r.jpg?impolicy=crop&width=387&height=490",
-      "image_3": "https://www.yoox.com/images/items/14/14295830IB_14_d.jpg?impolicy=crop&width=387&height=490",
-      "image_4": "https://www.yoox.com/images/items/14/14295830IB_14_a.jpg?impolicy=crop&width=387&height=490",
-      "tag": "",
-      "color": "pink",
-      "sleeve": "long_sleeve",
-      "zip_structure": "",
-      "materials": "wool",
-      "print": "stripes",
-      "id": 11
+        "image": "https://www.jiomart.com/images/product/330x410/rvwzqravph/kashvi-sarees-women-light-blue-bandhni-art-silk-single-saree-product-images-rvwzqravph-0-202201082130.jpg",
+        "discount": 82,
+        "name": "Kashvi Sarees Women Light Blue Bandhni Art Silk Single Saree",
+        "brand": "Kashvi Sarees",
+        "dis_price": "₹ 229.00",
+        "og_price": "₹ 1299.00",
+        "id": 8
     },
     {
-      "for_whom": "women",
-      "category": "clothing",
-      "title": "DIOR",
-      "type": "Coats",
-      "price": "887",
-      "offer": "25",
-      "size": "42",
-      "image_1": "https://www.yoox.com/images/items/16/16179587NG_14_f.jpg?impolicy=crop&width=387&height=490",
-      "image_2": "https://www.yoox.com/images/items/16/16179587NG_14_r.jpg?impolicy=crop&width=387&height=490",
-      "image_3": "https://www.yoox.com/images/items/16/16179587NG_14_e.jpg?impolicy=crop&width=387&height=490",
-      "image_4": "https://www.yoox.com/images/items/16/16179587NG_14_a.jpg?impolicy=crop&width=387&height=490",
-      "tag": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png",
-      "color": "black",
-      "sleeve": "long_sleeve",
-      "zip_structure": "",
-      "materials": "cotton",
-      "print": "stripes",
-      "id": 12
+        "image": "https://www.jiomart.com/images/product/330x410/rvvsyaqjm5/yashika-women-s-red-printed-art-silk-saree-with-blouse-piece-product-images-rvvsyaqjm5-0-202210120129.jpg",
+        "discount": 81,
+        "name": "Yashika Women's Red Printed Art Silk Saree With Blouse Piece",
+        "brand": "Yashika",
+        "dis_price": "₹ 239.00",
+        "og_price": "₹ 1299.00",
+        "id": 9
     },
     {
-      "for_whom": "women",
-      "category": "shoes",
-      "title": "MSGM",
-      "type": "Loafers",
-      "price": "384",
-      "offer": "27",
-      "size": "38",
-      "image_1": "https://www.yoox.com/images/items/17/17461002KQ_14_f.jpg?impolicy=crop&width=387&height=490",
-      "image_2": "https://www.yoox.com/images/items/17/17461002KQ_14_r.jpg?impolicy=crop&width=387&height=490",
-      "image_3": "https://www.yoox.com/images/items/17/17461002KQ_14_d.jpg?impolicy=crop&width=387&height=490",
-      "image_4": "https://www.yoox.com/images/items/17/17461002KQ_14_e.jpg?impolicy=crop&width=387&height=490",
-      "tag": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png",
-      "color": "bla",
-      "sleeve": "",
-      "zip_structure": "",
-      "materials": "",
-      "print": "",
-      "id": 13
+        "image": "https://www.jiomart.com/images/product/330x410/rvzqpn9pwf/siril-women-grey-printed-georgette-single-saree-product-images-rvzqpn9pwf-0-202202250408.jpg",
+        "discount": 81,
+        "name": "Siril Women Grey Printed Georgette Saree",
+        "brand": "SIRIL",
+        "dis_price": "₹ 249.00",
+        "og_price": "₹ 1330.00",
+        "id": 10
     },
     {
-      "for_whom": "women",
-      "category": "clothing",
-      "title": "GIAMBATTISTA VALLI",
-      "type": "Blazers",
-      "price": "184",
-      "offer": "30",
-      "size": "30",
-      "image_1": "https://www.yoox.com/images/items/49/49819275PE_14_f.jpg?impolicy=crop&width=387&height=490",
-      "image_2": "https://www.yoox.com/images/items/49/49819275PE_14_r.jpg?impolicy=crop&width=387&height=490",
-      "image_3": "https://www.yoox.com/images/items/49/49819275PE_14_e.jpg?impolicy=crop&width=387&height=490",
-      "image_4": "https://www.yoox.com/images/items/49/49819275PE_14_a.jpg?impolicy=crop&width=387&height=490",
-      "tag": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png",
-      "color": "black",
-      "sleeve": "long_sleeve",
-      "zip_structure": "",
-      "materials": "cotton",
-      "print": "other_pattarns",
-      "id": 14
+        "image": "https://www.jiomart.com/images/product/330x410/rvmxoy5rfy/anand-women-dark-blue-printed-georgette-single-saree-product-images-rvmxoy5rfy-0-202207280109.jpg",
+        "discount": 82,
+        "name": "Anand Women Dark Blue Printed Georgette Single Saree",
+        "brand": "Anand",
+        "dis_price": "₹ 229.00",
+        "og_price": "₹ 1299.00",
+        "id": 11
     },
     {
-      "for_whom": "women",
-      "category": "clothing",
-      "title": "DOLCE & GABBANA",
-      "type": "pant",
-      "price": "917",
-      "offer": "30",
-      "size": "34",
-      "image_1": "https://www.yoox.com/images/items/13/13352428FC_14_f.jpg?impolicy=crop&width=387&height=490",
-      "image_2": "https://www.yoox.com/images/items/13/13352428FC_14_r.jpg?impolicy=crop&width=387&height=490",
-      "image_3": "https://www.yoox.com/images/items/13/13352428FC_14_d.jpg?impolicy=crop&width=387&height=490",
-      "image_4": "https://www.yoox.com/images/items/13/13352428FC_14_a.jpg?impolicy=crop&width=387&height=490",
-      "tag": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png",
-      "color": "gold",
-      "sleeve": "long_sleeve",
-      "zip_structure": "zip",
-      "materials": "silk",
-      "print": "pinstripe",
-      "id": 15
+        "image": "https://www.jiomart.com/images/product/330x410/rv9sqcqfyd/siril-poly-silk-green-color-poly-silk-saree-with-blouse-piece-product-images-rv9sqcqfyd-0-202207140930.jpg",
+        "discount": 80,
+        "name": "Siril Poly Silk Green Color Poly Silk Saree with Blouse piece",
+        "brand": "SIRIL",
+        "dis_price": "₹ 235.00",
+        "og_price": "₹ 1197.00",
+        "id": 12
     },
     {
-      "for_whom": "women",
-      "category": "shoes",
-      "title": "ISABEL MARANT",
-      "type": "hill",
-      "price": "288",
-      "offer": "20",
-      "size": "30",
-      "image_1": "https://www.yoox.com/images/items/11/11839517GC_14_f.jpg?impolicy=crop&width=387&height=490",
-      "image_2": "https://www.yoox.com/images/items/11/11839517GC_14_r.jpg?impolicy=crop&width=387&height=490",
-      "image_3": "https://www.yoox.com/images/items/11/11839517GC_14_d.jpg?impolicy=crop&width=387&height=490",
-      "image_4": "https://www.yoox.com/images/items/11/11839517GC_14_e.jpg?impolicy=crop&width=387&height=490",
-      "tag": "https://www.yoox.com/media/yoox14/sections/sr/badge/badge_new_2018n.png",
-      "color": "purple",
-      "sleeve": "",
-      "zip_structure": "zip",
-      "materials": "leather",
-      "print": "one_color",
-      "id": 16
+        "image": "https://www.jiomart.com/images/product/330x410/rvzvkwjewf/yashika-women-s-chicku-madhubani-printed-art-silk-saree-with-blouse-piece-product-images-rvzvkwjewf-0-202211171935.jpg",
+        "discount": 77,
+        "name": "Yashika Women's Chicku Madhubani Printed Art Silk Saree With Blouse Piece",
+        "brand": "Yashika",
+        "dis_price": "₹ 279.00",
+        "og_price": "₹ 1239.00",
+        "id": 13
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rvq4ibs1lm/siril-women-blue-printed-khadi-silk-single-saree-product-images-rvq4ibs1lm-0-202202250404.jpg",
+        "discount": 81,
+        "name": "Siril Women Blue Printed Khadi Silk Saree",
+        "brand": "SIRIL",
+        "dis_price": "₹ 235.00",
+        "og_price": "₹ 1277.00",
+        "id": 14
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rvszdcoll0/anand-women-red-striped-georgette-single-saree-product-images-rvszdcoll0-0-202208020746.jpg",
+        "discount": 82,
+        "name": "Anand Women Red Striped Georgette Single Saree",
+        "brand": "Anand",
+        "dis_price": "₹ 229.00",
+        "og_price": "₹ 1299.00",
+        "id": 15
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rviicth3ff/apnisha-women-s-georgette-squence-embroidered-saree-product-images-rviicth3ff-0-202202261132.jpg",
+        "discount": 63,
+        "name": "Apnisha Women's Georgette Squence Embroidered Saree",
+        "brand": "Apnisha",
+        "dis_price": "₹ 829.00",
+        "og_price": "₹ 2299.00",
+        "id": 16
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rvpuctvp8z/kashvi-sarees-women-green-bandhni-art-silk-single-saree-product-images-rvpuctvp8z-0-202201082129.jpg",
+        "discount": 82,
+        "name": "Kashvi Sarees Women Green Bandhni Art Silk Single Saree",
+        "brand": "Kashvi Sarees",
+        "dis_price": "₹ 229.00",
+        "og_price": "₹ 1299.00",
+        "id": 17
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rvtt30ahqp/yashika-women-multicolor-floral-print-georgette-daily-wear-saree-product-images-rvtt30ahqp-0-202212010335.jpg",
+        "discount": 83,
+        "name": "Yashika Women Multicolor Floral Print Georgette Daily Wear Saree",
+        "brand": "Yashika",
+        "dis_price": "₹ 299.00",
+        "og_price": "₹ 1799.00",
+        "id": 18
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rv9nlvngn3/saadhvi-women-dark-blue-striped-cotton-silk-single-sarees-product-images-rv9nlvngn3-0-202206021200.jpg",
+        "discount": 93,
+        "name": "SAADHVI Women Dark Blue Striped Cotton Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 159.00",
+        "og_price": "₹ 2495.00",
+        "id": 19
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rvxpeopciw/vkaran-women-light-blue-striped-cotton-silk-saree-product-images-rvxpeopciw-0-202209031615.jpg",
+        "discount": 93,
+        "name": "Vkaran Women Light Blue Striped Cotton Silk Saree",
+        "brand": "VKARAN",
+        "dis_price": "₹ 159.00",
+        "og_price": "₹ 2645.00",
+        "id": 20
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rvx8uunjkt/saadhvi-women-purple-kalamkari-bhagalpuri-silk-single-saree-product-images-rvx8uunjkt-0-202210061237.jpg",
+        "discount": 85,
+        "name": "SAADHVI Women Purple Kalamkari Bhagalpuri Silk Single Saree",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 299.00",
+        "og_price": "₹ 1999.00",
+        "id": 21
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rv3y9twgba/vm-tejani-women-purple-embroidered-velvet-brasso-bollywood-saree-product-images-rv3y9twgba-0-202211291505.jpg",
+        "discount": 86,
+        "name": "VM TEJANI Women Purple Embroidered Velvet, Brasso Bollywood Saree",
+        "brand": "VM Tejani",
+        "dis_price": "₹ 399.00",
+        "og_price": "₹ 2999.00",
+        "id": 22
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rvz8atdx7e/saadhvi-women-maroon-striped-cotton-silk-single-sarees-product-images-rvz8atdx7e-0-202206020741.jpg",
+        "discount": 93,
+        "name": "SAADHVI Women Maroon Striped Cotton Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 159.00",
+        "og_price": "₹ 2495.00",
+        "id": 23
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rvfy7uoqgr/saadhvi-women-green-striped-cotton-silk-single-sarees-product-images-rvfy7uoqgr-0-202206030357.jpg",
+        "discount": 92,
+        "name": "SAADHVI Women Green Striped Cotton Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 159.00",
+        "og_price": "₹ 2245.00",
+        "id": 24
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rvzwsqbep0/saadhvi-women-orange-striped-cotton-silk-single-sarees-product-images-rvzwsqbep0-0-202205300241.jpg",
+        "discount": 86,
+        "name": "SAADHVI Women Orange Striped Cotton Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 159.00",
+        "og_price": "₹ 1196.00",
+        "id": 25
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rv8mpjk7kc/saadhvi-women-pink-solid-cotton-silk-single-sarees-product-images-rv8mpjk7kc-0-202205312335.jpg",
+        "discount": 92,
+        "name": "SAADHVI Women Pink Solid Cotton Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 219.00",
+        "og_price": "₹ 2745.00",
+        "id": 26
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rvsmdxz1gz/saadhvi-women-black-striped-cotton-silk-single-sarees-product-images-rvsmdxz1gz-0-202206020740.jpg",
+        "discount": 92,
+        "name": "SAADHVI Women Black Striped Cotton Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 159.00",
+        "og_price": "₹ 2245.00",
+        "id": 27
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rvca8lison/saadhvi-women-maroon-printed-art-silk-single-sarees-product-images-rvca8lison-0-202206020808.jpg",
+        "discount": 91,
+        "name": "SAADHVI Women Maroon Printed Art Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 249.00",
+        "og_price": "₹ 2845.00",
+        "id": 28
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rvbg49js6z/ns-world-women-gold-printed-cotton-silk-saree-product-images-rvbg49js6z-0-202207251023.jpg",
+        "discount": 87,
+        "name": "NS World Women Gold Printed Cotton Silk Saree",
+        "brand": "NS WORLD",
+        "dis_price": "₹ 628.00",
+        "og_price": "₹ 4999.00",
+        "id": 29
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/330x410/rvfvnl3qnm/suntex-women-purple-kalamkari-bhagalpuri-silk-single-saree-product-images-rvfvnl3qnm-0-202210140413.jpg",
+        "discount": 81,
+        "name": "Suntex Women Purple Kalamkari Bhagalpuri Silk Single Saree",
+        "brand": "Suntex",
+        "dis_price": "₹ 369.00",
+        "og_price": "₹ 1999.00",
+        "id": 30
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 94,
+        "name": "Vkaran Women Multicolor Solid Art Silk Pack Of 2 Sarees",
+        "brand": "VKARAN",
+        "dis_price": "₹ 219.00",
+        "og_price": "₹ 3750.00",
+        "id": 31
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 80,
+        "name": "Yashika Women's Rama Linen Blend Silk Saree With Blouse Piece",
+        "brand": "Yashika",
+        "dis_price": "₹ 329.00",
+        "og_price": "₹ 1699.00",
+        "id": 32
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 93,
+        "name": "Vkaran Women Black Striped Cotton Silk Saree",
+        "brand": "VKARAN",
+        "dis_price": "₹ 159.00",
+        "og_price": "₹ 2645.00",
+        "id": 33
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 81,
+        "name": "Leeza Store Women Red Silk Blend Jacquard Woven Golden Zari Traditional Bandhani Saree with Blouse Pieces",
+        "brand": "Leeza Store",
+        "dis_price": "₹ 569.00",
+        "og_price": "₹ 2999.00",
+        "id": 34
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 82,
+        "name": "Siril Women Royal Blue Printed Poly Silk Saree",
+        "brand": "SIRIL",
+        "dis_price": "₹ 219.00",
+        "og_price": "₹ 1230.00",
+        "id": 35
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 92,
+        "name": "SAADHVI Women Pink Solid Cotton Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 219.00",
+        "og_price": "₹ 2745.00",
+        "id": 36
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 93,
+        "name": "SAADHVI Women White Striped Cotton Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 159.00",
+        "og_price": "₹ 2495.00",
+        "id": 37
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 82,
+        "name": "Anand Women Black Floral Georgette Single Saree",
+        "brand": "Anand",
+        "dis_price": "₹ 229.00",
+        "og_price": "₹ 1299.00",
+        "id": 38
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 92,
+        "name": "SAADHVI Women Green Solid Cotton Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 219.00",
+        "og_price": "₹ 2745.00",
+        "id": 39
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 81,
+        "name": "Leeza Store Women Maroon Silk Blend Jacquard Woven Golden Zari Traditional Bandhani Saree with Blouse Pieces",
+        "brand": "Leeza Store",
+        "dis_price": "₹ 569.00",
+        "og_price": "₹ 2999.00",
+        "id": 40
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 86,
+        "name": "Anand Women Multicolor Colour-Block Georgette Single Saree",
+        "brand": "Anand",
+        "dis_price": "₹ 229.00",
+        "og_price": "₹ 1699.00",
+        "id": 41
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 90,
+        "name": "SAADHVI Women Blue Woven Design Cotton Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 159.00",
+        "og_price": "₹ 1665.00",
+        "id": 42
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 82,
+        "name": "Kashvi Sarees Women Light Blue Bandhni Art Silk Single Saree",
+        "brand": "Kashvi Sarees",
+        "dis_price": "₹ 229.00",
+        "og_price": "₹ 1299.00",
+        "id": 43
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 83,
+        "name": "Siril Women'S Orange Bandhani Printed Printed Saree",
+        "brand": "SIRIL",
+        "dis_price": "₹ 209.00",
+        "og_price": "₹ 1253.00",
+        "id": 44
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 80,
+        "name": "Siril Women Poly Silk Turmeric Yellow Printed Saree",
+        "brand": "SIRIL",
+        "dis_price": "₹ 239.00",
+        "og_price": "₹ 1230.00",
+        "id": 45
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 76,
+        "name": "Yashika Women's Mustard Printed Art Silk Saree With Blouse Piece",
+        "brand": "Yashika",
+        "dis_price": "₹ 299.00",
+        "og_price": "₹ 1299.00",
+        "id": 46
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 78,
+        "name": "SAADHVI Women Pink Self Design Lycra Blend Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 219.00",
+        "og_price": "₹ 999.00",
+        "id": 47
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 75,
+        "name": "Yashika Women Pink Printed Art Silk Daily Wear Saree",
+        "brand": "Yashika",
+        "dis_price": "₹ 299.00",
+        "og_price": "₹ 1199.00",
+        "id": 48
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 86,
+        "name": "SAADHVI Women Dark Blue Floral Georgette Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 219.00",
+        "og_price": "₹ 1665.00",
+        "id": 49
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 93,
+        "name": "Vkaran Women Beige Striped Cotton Silk Saree",
+        "brand": "VKARAN",
+        "dis_price": "₹ 159.00",
+        "og_price": "₹ 2645.00",
+        "id": 50
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 91,
+        "name": "Baps Women Multicolor Striped Art Silk Single Saree",
+        "brand": "Baps",
+        "dis_price": "₹ 249.00",
+        "og_price": "₹ 3099.00",
+        "id": 51
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 77,
+        "name": "Yashika Women's Black Madhubani Printed Art Silk Saree With Blouse Piece",
+        "brand": "Yashika",
+        "dis_price": "₹ 279.00",
+        "og_price": "₹ 1239.00",
+        "id": 52
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 83,
+        "name": "Arpita fashion Women Gold Satin Saree",
+        "brand": "ARPITA FASHION",
+        "dis_price": "₹ 332.00",
+        "og_price": "₹ 1999.00",
+        "id": 53
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 70,
+        "name": "Leelavati Women Dark Blue Printed Single Saree",
+        "brand": "Leelavati",
+        "dis_price": "₹ 299.00",
+        "og_price": "₹ 999.00",
+        "id": 54
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 80,
+        "name": "Rooptara Women White, Red Cotton Silk Printed Saree",
+        "brand": "ROOPTARA",
+        "dis_price": "₹ 291.00",
+        "og_price": "₹ 1497.00",
+        "id": 55
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 80,
+        "name": "Siril Georgette Multicolor Color Georgette Saree with Blouse piece",
+        "brand": "SIRIL",
+        "dis_price": "₹ 249.00",
+        "og_price": "₹ 1263.00",
+        "id": 56
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 77,
+        "name": "Yashika Women's Coffee Madhubani Printed Art Silk Saree With Blouse Piece",
+        "brand": "Yashika",
+        "dis_price": "₹ 279.00",
+        "og_price": "₹ 1239.00",
+        "id": 57
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 90,
+        "name": "SAADHVI Women Maroon Solid Cotton Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 159.00",
+        "og_price": "₹ 1660.00",
+        "id": 58
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 89,
+        "name": "SAADHVI Women Green Checkered Cotton Silk Single Sarees",
+        "brand": "SAADHVI",
+        "dis_price": "₹ 219.00",
+        "og_price": "₹ 1999.00",
+        "id": 59
+    },
+    {
+        "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+        "discount": 93,
+        "name": "Vkaran Women Green Striped Cotton Silk Saree",
+        "brand": "VKARAN",
+        "dis_price": "₹ 159.00",
+        "og_price": "₹ 2645.00",
+        "id": 60
     }
-  ],
-  "cart": [
-  
-  ]
+],
+"topWear":[
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221201/Jn5T/6387c3e6aeb269659cc56e78/ausk_black_turtle-neck_t-shirt_with_full_sleeves.jpg",
+      "brand": "AUSK",
+      "name": "Turtle-Neck T-Shirt with Full Sleeves",
+      "dis_price": "₹420",
+      "og_price": "₹1,499",
+      "discount": "72 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220910/vHIs/631b91abaeb269dbb37f85dc/netplay_navy_blue_polo_t-shirt_with_ribbed_hems.jpg",
+      "brand": "NETPLAY",
+      "name": "Polo T-shirt with Ribbed Hems",
+      "price": "₹392",
+      "og_price": "₹799",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220901/ARH5/6310ee67f997dd1f8dd3e3fd/eyebogler_teal_colour-blocked_polo_t-shirt.jpg",
+      "brand": "EYEBOGLER",
+      "name": "Colour-Blocked Polo T-shirt",
+      "price": "₹403",
+      "og_price": "₹1,299",
+      "discount": "69 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220802/5ikr/62e844bff997dd03e2169161/dillinger_green_colourblock_crew-_neck_t-shirt.jpg",
+      "brand": "DILLINGER",
+      "name": "Colourblock Crew- Neck T-shirt",
+      "price": "₹500",
+      "og_price": "₹1,249",
+      "discount": "60 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220623/g3gy/62b3819faeb26921af423d20/ausk_navy_striped_crew-neck_t-shirt.jpg",
+      "brand": "AUSK",
+      "name": "Striped Crew-Neck T-shirt",
+      "price": "₹360",
+      "og_price": "₹999",
+      "discount": "64 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221123/Tdm8/637d44aeaeb269659ca88853/clafoutis_white_extra_slim_fit_crew-neck_t-shirt.jpg",
+      "brand": "Clafoutis",
+      "name": "Extra Slim Fit Crew-Neck T-Shirt",
+      "price": "₹430",
+      "og_price": "₹999",
+      "discount": "57 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220802/negp/62e945daf997dd03e21a4326/dnmx_jet_black_slim_fit_cotton_henley_t-shirt.jpg",
+      "brand": "DNMX",
+      "name": "Slim Fit Cotton Henley T-shirt",
+      "price": "₹490",
+      "og_price": "₹999",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221027/6tk7/635ac20baeb269659c5cb68a/jump_cuts_white_typographic_print_crew-neck_t-shirt.jpg",
+      "brand": "JUMP CUTS",
+      "name": "Typographic Print Crew-Neck T-Shirt",
+      "price": "₹400",
+      "og_price": "₹1,599",
+      "discount": "75 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210720/g3XB/60f6f0bbaeb269a9e34a844d/disney_sky_blue_captain_america_print_crew-neck_t-shirt.jpg",
+      "brand": "DISNEY",
+      "name": "Captain America Print Crew-Neck T-shirt",
+      "price": "₹225",
+      "og_price": "₹449",
+      "discount": "50 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220301/YmmO/621d2d35aeb26921afbc852d/lee_cooper_navy_blue_crew-neck_t-shirt_with_zip_placket.jpg",
+      "brand": "Lee Cooper",
+      "name": "Crew-Neck T-shirt with Zip Placket",
+      "price": "₹637",
+      "og_price": "₹1,299",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220528/VWa3/62913dfaf997dd03e23fe607/urbano_fashion_green_leaf_print_crew-neck_t-shirt.jpg",
+      "brand": "URBANO FASHION",
+      "name": "Leaf Print Crew-Neck T-shirt",
+      "price": "₹539",
+      "og_price": "₹1,099",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220902/Xos5/63119582aeb269dbb3649d1c/eyebogler_midnight_blue_geometric_print_hooded_t-shirt.jpg",
+      "brand": "EYEBOGLER",
+      "name": "Geometric Print Hooded T-shirt",
+      "price": "₹429",
+      "og_price": "₹1,299",
+      "discount": "67 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220924/M4YH/632e172faeb269dbb3a4b66f/teamspirit_grey_graphic_print_hooded_t-shirt.jpg",
+      "brand": "Teamspirit",
+      "name": "Graphic Print Hooded T-Shirt",
+      "price": "₹450",
+      "og_price": "₹899",
+      "discount": "50 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220121/8iFR/61ea86fdf997dd6623342a43/clafoutis_olive_slim_fit_high-neck_t-shirt.jpg",
+      "brand": "Clafoutis",
+      "name": "Slim Fit High-Neck T-shirt",
+      "price": "₹430",
+      "og_price": "₹999",
+      "discount": "57 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220317/upsH/62324f6daeb26921afdf8b19/the_dry_state_blue_solid_crew-neck_t-shirt.jpg",
+      "brand": "The Dry State",
+      "name": "Solid Crew-Neck T-shirt",
+      "price": "₹520",
+      "og_price": "₹1,299",
+      "discount": "60 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220611/xS5c/62a38e32aeb26921af1bb166/netplay_navy_blue_striped_henley_t-shirt.jpg",
+      "brand": "NETPLAY",
+      "name": "Striped Henley T-shirt",
+      "price": "₹392",
+      "og_price": "₹799",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221129/endq/63862594aeb269659cbe60cc/max_rust_crew-neck_t-shirt.jpg",
+      "brand": "MAX",
+      "name": "Crew-Neck T-Shirt",
+      "price": "₹599",
+      "og_price": "",
+      "discount": ""
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221027/Kxao/635ac8e6f997ddfdbd43378d/jump_cuts_olive_typographic_print_slim_fit_crew-neck_t-shirt.jpg",
+      "brand": "JUMP CUTS",
+      "name": "Typographic Print Slim Fit Crew-Neck T-Shirt",
+      "price": "₹400",
+      "og_price": "₹1,599",
+      "discount": "75 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220624/vUnZ/62b4b5b5f997dd03e29aa493/netplay_mustard_striped_polo_t-shirt.jpg",
+      "brand": "NETPLAY",
+      "name": "Striped Polo T-shirt",
+      "price": "₹392",
+      "og_price": "₹799",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220721/ciqV/62d98537f997dd03e2e7e88d/dnmx_wine_red_slim_fit_henley_t-shirt.jpg",
+      "brand": "DNMX",
+      "name": "Slim Fit Henley T-shirt",
+      "price": "₹490",
+      "og_price": "₹999",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220601/uW7F/62971348f997dd03e256c975/netplay_navy_blue_printed_polo_t-shirt.jpg",
+      "brand": "NETPLAY",
+      "name": "Printed Polo T-shirt",
+      "price": "₹392",
+      "og_price": "₹799",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221104/CM75/636427f0f997ddfdbd56fce3/jump_cuts_black_typographic_print_extra_slim_fit_t-shirt.jpg",
+      "brand": "JUMP CUTS",
+      "name": "Typographic Print Extra Slim Fit T-Shirt",
+      "price": "₹425",
+      "og_price": "₹1,519",
+      "discount": "72 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210403/1V0O/606861eff997dd7b645d1800/dillinger_navy_blue_crew-neck_t-shirt_with_contrast_taping.jpg",
+      "brand": "DILLINGER",
+      "name": "Crew-Neck T-shirt with Contrast Taping",
+      "price": "₹540",
+      "og_price": "₹1,199",
+      "discount": "55 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220419/9uTm/625db122aeb26921af2924ef/dnmx_navy_blue_striped_round-neck_t-shirt_with_raglan_sleeves.jpg",
+      "brand": "DNMX",
+      "name": "Striped Round-Neck T-shirt with Raglan Sleeves",
+      "price": "₹294",
+      "og_price": "₹599",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220721/7mVw/62d98da0f997dd03e2e82033/dnmx_olive_green_slim_fit_henley_t-shirt.jpg",
+      "brand": "DNMX",
+      "name": "Slim Fit Henley T-shirt",
+      "price": "₹490",
+      "og_price": "₹999",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220913/rv14/631f9929f997dd1f8df80cb0/stellers_grey_polo_t-shirt_with_brand_print.jpg",
+      "brand": "Stellers",
+      "name": "Polo T-shirt with Brand Print",
+      "price": "₹740",
+      "og_price": "₹1,999",
+      "discount": "63 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220920/5Tu7/6328c649f997dd1f8d08d081/teamspirit_navy_blue_colourblock_polo_t-shirt.jpg",
+      "brand": "Teamspirit",
+      "name": "Colourblock Polo T-Shirt",
+      "price": "₹400",
+      "og_price": "₹799",
+      "discount": "50 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220303/iZeH/62205448f997dd03e2fe2af5/louis_philippe_black_logo_print_slim_fit_crew-neck_t-shirt.jpg",
+      "brand": "LOUIS PHILIPPE",
+      "name": "Logo Print Slim Fit Crew-Neck T-shirt",
+      "price": "₹619",
+      "og_price": "₹1,049",
+      "discount": "41 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220527/mdHs/628fed3bf997dd03e2354ec1/netplay_khaki_polo_t-shirt_with_welt_pocket.jpg",
+      "brand": "NETPLAY",
+      "name": "Polo T-shirt with Welt Pocket",
+      "price": "₹392",
+      "og_price": "₹799",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221027/CTM7/635ac43df997ddfdbd42a2dd/jump_cuts_yellow_typographic_print_crew-neck_t-shirt.jpg",
+      "brand": "JUMP CUTS",
+      "name": "Typographic Print Crew-Neck T-Shirt",
+      "price": "₹352",
+      "og_price": "₹1,599",
+      "discount": "78 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220411/WXyg/6253e5ccf997dd03e2544521/eyebogler_green_striped_polo_t-shirt.jpg",
+      "brand": "EYEBOGLER",
+      "name": "Striped Polo T-shirt",
+      "price": "₹442",
+      "og_price": "₹1,299",
+      "discount": "66 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220817/buHj/62fd08a1f997dd394cfeeac1/teamspirit_jet_black_typographic_print_crew-neck_t-shirt.jpg",
+      "brand": "Teamspirit",
+      "name": "Typographic Print Crew-Neck T-shirt",
+      "price": "₹400",
+      "og_price": "₹799",
+      "discount": "50 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220531/qSav/62954a27f997dd03e24c4377/umbro_yellow_logo_print_crew-neck_t-shirt.jpg",
+      "brand": "UMBRO",
+      "name": "Logo Print Crew-Neck T-shirt",
+      "price": "₹349",
+      "og_price": "₹499",
+      "discount": "30 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220623/XOWk/62b49e81aeb26921af431075/netplay_maroon_checked_polo_t-shirt.jpg",
+      "brand": "NETPLAY",
+      "name": "Checked Polo T-shirt",
+      "price": "₹392",
+      "og_price": "₹799",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220519/j16r/6285c591aeb26921afa559fc/netplay_olive_floral_print_polo_t-shirt.jpg",
+      "brand": "NETPLAY",
+      "name": "Floral Print Polo T-shirt",
+      "price": "₹392",
+      "og_price": "₹799",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220429/AZYg/626c0df9aeb26921af4c23de/teamspirit_white_brand_print_crew-neck_t-shirt.jpg",
+      "brand": "Teamspirit",
+      "name": "Brand Print Crew-Neck T-shirt",
+      "price": "₹275",
+      "og_price": "₹549",
+      "discount": "50 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220720/YkoN/62d6f8aaaeb26921af85f938/lee_cooper_black_colourblock_crew-neck_t-shirt.jpg",
+      "brand": "Lee Cooper",
+      "name": "Colourblock Crew-Neck T-shirt",
+      "price": "₹588",
+      "og_price": "₹1,199",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220714/DgRp/62d03d14f997dd03e2d4a405/teamspirit_navy_blue_typographic_print_polo_t-shirt.jpg",
+      "brand": "Teamspirit",
+      "name": "Typographic Print Polo T-shirt",
+      "price": "₹400",
+      "og_price": "₹799",
+      "discount": "50 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220909/4syd/631a39a7aeb269dbb37b8e85/netplay_mustard_polo_t-shirt_with_ribbed_hems.jpg",
+      "brand": "NETPLAY",
+      "name": "Polo T-shirt with Ribbed Hems",
+      "price": "₹392",
+      "og_price": "₹799",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220609/bgrn/62a10f5cf997dd03e26e8a44/netplay_olive_checked_polo_t-shirt.jpg",
+      "brand": "NETPLAY",
+      "name": "Checked Polo T-shirt",
+      "price": "₹392",
+      "og_price": "₹799",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220611/LXg6/62a39b8ef997dd03e2718840/netplay_teal_blue_fancy_striped_polo_t-shirt.jpg",
+      "brand": "NETPLAY",
+      "name": "Fancy Striped Polo T-shirt",
+      "price": "₹392",
+      "og_price": "₹799",
+      "discount": "51 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211213/sNal/61b7893df997ddf8f14dcef5/paul_street_white_cotton_crew-neck_t-shirt.jpg",
+      "brand": "PAUL STREET",
+      "name": "Cotton Crew-Neck T-shirt",
+      "price": "₹483",
+      "og_price": "₹895",
+      "discount": "46 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221202/h8Gw/63892da7aeb269659cc8ace5/jump_cuts_navy_blue_printed_crew-neck_t-shirt_.jpg",
+      "brand": "JUMP CUTS",
+      "name": "Printed Crew-Neck T-Shirt",
+      "price": "₹349",
+      "og_price": "₹1,519",
+      "discount": "77 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220429/de05/626c01abaeb26921af4be20e/teamspirit_jet_black_brand_print_crew-neck_t-shirt.jpg",
+      "brand": "Teamspirit",
+      "name": "Brand Print Crew-Neck T-shirt",
+      "price": "₹275",
+      "og_price": "₹549",
+      "discount": "50 "
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220920/8H9B/6328c6a9f997dd1f8d08d18c/teamspirit_green_popcorn_crew-neck_t-shirt.jpg",
+      "brand": "Teamspirit",
+      "name": "Popcorn Crew-Neck T-Shirt",
+      "price": "₹382",
+      "og_price": "₹449",
+      "discount": "15"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210810/AWj4/6111cbcf7cdb8cb824f174a6/london_hills_black_polo_t-shirt_with_ribbed_hems.jpg",
+      "brand": "LONDON HILLS",
+      "name": "Polo T-shirt with Ribbed Hems",
+      "price": "₹494",
+      "og_price": "₹1,299",
+      "discount": "62"
+  }
+],
+"kidWear":[
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220218/xCqt/620fa5ddaeb26921afa383ea/mothercare_blue_pack_of_2_dino_print_t-shirt_26_pyjamas_set.jpg",
+      "name": "Pack of 2 Dino Print T-shirt & Pyjamas Set",
+      "dis_price": "1,000",
+      "og_price": "1,999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220616/kIGH/62ab4c80f997dd03e282a40f/mothercare__pack_of_3_lovable_bear_printed_muslin_sheets.jpg",
+      "name": "Pack of 3 Lovable Bear Printed Muslin Sheets",
+      "dis_price": "799",
+      "og_price": "999",
+      "discount": "20"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221015/h2on/634a5550f997ddfdbd2aca87/mothercare_ivory_slingback_clogs_with_perforations.jpg",
+      "name": "Slingback Clogs with Perforations",
+      "dis_price": "599",
+      "og_price": "999",
+      "discount": "40"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220218/HzmK/620fa5ddaeb26921afa383f1/mothercare_multicoloured_pack_of_3_animal_print_round-neck_t-shirt.jpg",
+      "name": "Pack of 3 Animal Print Round-Neck T-shirt",
+      "dis_price": "850",
+      "og_price": "1,699",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220218/Q5qk/620fa5e7aeb26921afa384ba/mothercare_multicoloured_pack_of_3_shorts_with_elasticated_drawstring_waist.jpg",
+      "name": "Pack of 3 Shorts with Elasticated Drawstring Waist",
+      "dis_price": "850",
+      "og_price": "1,699",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211014/4g2G/6168540eaeb2690110931ec4/mothercare_pink_fleece-lined_hooded_puffer_jacket.jpg",
+      "name": "Fleece-Lined Hooded Puffer Jacket",
+      "dis_price": "2,099",
+      "og_price": "2,999",
+      "discount": "30"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210917/FuPM/6143b0247cdb8cb82425f140/mothercare_multicoloured_pack_of_3_printed_sleepsuits.jpg",
+      "name": "Pack of 3 Printed Sleepsuits",
+      "dis_price": "1,999",
+      "og_price": "",
+      "discount": ""
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221015/ioRS/634a5a89f997ddfdbd2af040/mothercare_multicoloured_slingback_clogs_with_perforations.jpg",
+      "name": "Slingback Clogs with Perforations",
+      "dis_price": "599",
+      "og_price": "999",
+      "discount": "40"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220714/M4U8/62d040d8aeb26921af7abb02/mothercare__all_we_know_baby_powder.jpg",
+      "name": "All We Know Baby Powder",
+      "dis_price": "149",
+      "og_price": "",
+      "discount": ""
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220422/NrLh/6261a55ff997dd03e27817a1/mothercare__all_we_know_hair_oil.jpg",
+      "name": "All We Know Hair Oil",
+      "dis_price": "109",
+      "og_price": "",
+      "discount": ""
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211009/NAnm/6160c682aeb2692b85bdab06/mothercare_multicoloured_set_of_2_printed_pyjamas_26_t-shirts.jpg",
+      "name": "Set of 2 Printed Pyjamas & T-shirts",
+      "dis_price": "1,000",
+      "og_price": "1,999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210304/qwFe/6040f9be7cdb8c1f145649fd/mothercare__pack_of_3_cotton_sleepsuit.jpg",
+      "name": "Pack of 3 Cotton Sleepsuit",
+      "dis_price": "1,000",
+      "og_price": "1,999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220324/fBhg/623c8e96f997dd03e22f0fe8/mothercare_multicoloured_graphic_print_a-line_dress.jpg",
+      "name": "Graphic Print A-line Dress",
+      "dis_price": "500",
+      "og_price": "999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220422/nsMw/6261ad9eaeb26921af3a2350/mothercare__all_we_know_top-to-toe_wash_100_ml.jpg",
+      "name": "All We Know Top-To-Toe Wash 100 ml",
+      "dis_price": "99",
+      "og_price": "",
+      "discount": ""
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220225/xsMV/6218f6f2aeb26921afb879a8/mothercare_brown_printed_round-neck_t-shirt_26_shorts_set.jpg",
+      "name": "Printed Round-Neck T-shirt & Shorts Set",
+      "dis_price": "500",
+      "og_price": "999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220422/DSY9/6261b0d3f997dd03e27849bd/mothercare__all_we_know_lotion.jpg",
+      "name": "All We Know Lotion",
+      "dis_price": "279",
+      "og_price": "",
+      "discount": ""
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211014/jx41/61685966f997ddf8f1d20b34/mothercare_brown_fleece_lined_hooded_jacket.jpg",
+      "name": "Fleece Lined Hooded Jacket",
+      "dis_price": "2,799",
+      "og_price": "3,999",
+      "discount": "30"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211014/nA7o/61684713f997ddf8f1d1c676/mothercare_navy_blue_polka_dot_print_hooded_puffer_jacket.jpg",
+      "name": "Polka Dot Print Hooded Puffer Jacket",
+      "dis_price": "2,099",
+      "og_price": "2,999",
+      "discount": "30"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211009/aqWI/61614768aeb2692b85c0281c/mothercare_blue_printed_fit_26_flare_twofer_dress_with_embellishments.jpg",
+      "name": "Printed Fit & Flare Twofer Dress with Embellishments",
+      "dis_price": "2,099",
+      "og_price": "2,999",
+      "discount": "30"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210903/9kU2/61313518f997ddce89b8d2eb/mothercare_multicoloured_striped_pullover_with_button_closure.jpg",
+      "name": "Striped Pullover with Button Closure",
+      "dis_price": "1,049",
+      "og_price": "1,499",
+      "discount": "30"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211210/3WTt/61b25762aeb2690110053bcc/mothercare__pack_of_4_all_we_know_soap.jpg",
+      "name": "Pack of 4 All We Know Soap",
+      "dis_price": "165",
+      "og_price": "",
+      "discount": ""
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220324/qHT3/623c89d7f997dd03e22ef2d5/mothercare_multicoloured_pack_of_2_animal_print_t-shirts_26_pyjamas_set.jpg",
+      "name": "Pack of 2 Animal Print T-shirts & Pyjamas Set",
+      "dis_price": "1,000",
+      "og_price": "1,999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220822/lNGU/63039dbef997dd394c0dcb35/mothercare_pink_slingback_clogs_with_appliques.jpg",
+      "name": "Slingback Clogs with Appliques",
+      "dis_price": "599",
+      "og_price": "999",
+      "discount": "40"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220218/ZbYc/620fa72faeb26921afa39f76/mothercare_blue_pack_of_3_printed_sleepsuits.jpg",
+      "name": "Pack of 3 Printed Sleepsuits",
+      "dis_price": "1,000",
+      "og_price": "1,999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/h9b/h1e/15593649373214/mothercare_orange_polo_t-shirt_with_ribbed_hems.jpg",
+      "name": "Polo T-shirt with Ribbed Hems",
+      "dis_price": "400",
+      "og_price": "799",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221015/NQwr/634a6f28f997ddfdbd2b764e/mothercare_olive_green_slingback_clogs_with_perforations.jpg",
+      "name": "Slingback Clogs with Perforations",
+      "dis_price": "599",
+      "og_price": "999",
+      "discount": "40"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220422/anGS/6261b3b7aeb26921af3a3db4/mothercare__all_we_know_bath_milk_300_ml.jpg",
+      "name": "All We Know Bath Milk 300 ml",
+      "dis_price": "279",
+      "og_price": "",
+      "discount": ""
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/he7/h8a/15593569288222/mothercare_red_26_blue_polka-dot_print_swim_suit_with_bobble_trims.jpg",
+      "name": "Polka-Dot Print Swim Suit with Bobble Trims",
+      "dis_price": "750",
+      "og_price": "1,499",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220909/VoUI/631b5232f997dd1f8df1e7f1/mothercare_multicoloured_printed_beanie_with_pom-pom_detail.jpg",
+      "name": "Printed Beanie with Pom-Pom Detail",
+      "dis_price": "559",
+      "og_price": "799",
+      "discount": "30"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211014/TWHj/61684d25aeb26901109309de/mothercare_green_graphic_print_zip-front_hooded_jacket.jpg",
+      "name": "Graphic Print Zip-Front Hooded Jacket",
+      "dis_price": "2,099",
+      "og_price": "2,999",
+      "discount": "30"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220225/mBnw/6218f608f997dd03e2f1581d/mothercare_multicoloured_pack_of_3_round-neck_tops.jpg",
+      "name": "Pack of 3 Round-Neck Tops",
+      "dis_price": "750",
+      "og_price": "1,499",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211014/ppNp/616847f8f997ddf8f1d1c9b7/mothercare_red_sleeveless_zip-front_quilted_jacket.jpg",
+      "name": "Sleeveless Zip-Front Quilted Jacket",
+      "dis_price": "1,399",
+      "og_price": "1,999",
+      "discount": "30"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220909/qC5G/631b4e6ff997dd1f8df1d416/mothercare_pink_zip-front_hooded_bodysuit.jpg",
+      "name": "Zip-Front Hooded Bodysuit",
+      "dis_price": "2,799",
+      "og_price": "3,999",
+      "discount": "30"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220616/mOUk/62ab4b97f997dd03e2829eff/mothercare__dancing_band_luxury_muslin_blanket.jpg",
+      "name": "Dancing Band Luxury Muslin Blanket",
+      "dis_price": "909",
+      "og_price": "1,299",
+      "discount": "30"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220225/JwYr/6218f779f997dd03e2f16026/mothercare_yellow_26_blue_printed_round-neck_t-shirt_26_shorts_set.jpg",
+      "name": "Printed Round-Neck T-shirt & Shorts Set",
+      "dis_price": "500",
+      "og_price": "999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20200828/euzs/5f491ca2aeb269ef8eb287e8/mothercare__pack_of_2_rompers.jpg",
+      "name": "Pack of 2 Rompers",
+      "dis_price": "650",
+      "og_price": "1,299",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220324/6Ku6/623c8e9caeb26921aff3c8e7/mothercare_white_26_black_panda_print_rompers_with_hood.jpg",
+      "name": "Panda Print Rompers with Hood",
+      "dis_price": "750",
+      "og_price": "1,499",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220422/RIkC/6261b867aeb26921af3a54e2/mothercare__all_we_know_shampoo_300_ml.jpg",
+      "name": "All We Know Shampoo 300 ml",
+      "dis_price": "279",
+      "og_price": "",
+      "discount": ""
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211014/wdUk/61684ab4f997ddf8f1d1d8c6/mothercare_blue_polka-dot_fur-lined_hooded_snowsuit_with_mittens.jpg",
+      "name": "Polka-Dot Fur-Lined Hooded Snowsuit with Mittens",
+      "dis_price": "3,499",
+      "og_price": "4,999",
+      "discount": "30"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221015/Xlx1/634a57b2aeb269659c46d929/mothercare_navy_blue_slingback_clogs_with_perforations.jpg",
+      "name": "Slingback Clogs with Perforations",
+      "dis_price": "599",
+      "og_price": "999",
+      "discount": "40"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211009/9NRW/616093e5f997ddce890e5ed7/mothercare_navy_blue_mid-rise_joggers_with_cargo_pockets.jpg",
+      "name": "Mid-Rise Joggers with Cargo Pockets",
+      "dis_price": "850",
+      "og_price": "1,699",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220324/svTH/623c8e89aeb26921aff3c757/mothercare_navy_blue_26_pink_printed_a-line_dress.jpg",
+      "name": "Printed A-line Dress",
+      "dis_price": "500",
+      "og_price": "999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/h29/h0a/15742781259806/mothercare_multicoloured_polo_t-shirt_with_shorts.jpg",
+      "name": "Polo T-shirt with Shorts",
+      "dis_price": "500",
+      "og_price": "999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210209/r0vS/6022ada7f997dd5c40ec1055/mothercare__pack_of_3_printed_sleepsuits.jpg",
+      "name": "Pack of 3 Printed Sleepsuits",
+      "dis_price": "1,000",
+      "og_price": "1,999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221015/cpOL/634a6815f997ddfdbd2b4763/mothercare_beige_slingback_clogs_with_perforations.jpg",
+      "name": "Slingback Clogs with Perforations",
+      "dis_price": "599",
+      "og_price": "999",
+      "discount": "40"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20201009/7vQm/5f80841af997dd8c835e0aff/mothercare_grey_checked_shirt_26_printed_crew-neck_t-shirt_set.jpg",
+      "name": "Checked Shirt & Printed Crew-Neck T-shirt Set",
+      "dis_price": "850",
+      "og_price": "1,699",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220218/vIHr/620fa513f997dd03e2db9b69/mothercare_multicoloured_pack_of_2_printed_t-shirt_26_pyjamas_set.jpg",
+      "name": "Pack of 2 Printed T-shirt & Pyjamas Set",
+      "dis_price": "1,000",
+      "og_price": "1,999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211014/m5jH/61684ec2aeb2690110930df0/mothercare_multicoloured_pack_of_5_bodysuits.jpg",
+      "name": "Pack of 5 Bodysuits",
+      "dis_price": "850",
+      "og_price": "1,699",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220225/OIGr/6218f867f997dd03e2f166e0/mothercare_black_joggers_with_side_taping.jpg",
+      "name": "Joggers with Side Taping",
+      "dis_price": "650",
+      "og_price": "1,299",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210903/LSvp/61312d1cf997ddce89b8bbde/mothercare_white_embroidered_cardigan_with_frilled_neckline.jpg",
+      "name": "Embroidered Cardigan with Frilled Neckline",
+      "dis_price": "1,399",
+      "og_price": "1,999",
+      "discount": "30"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220218/nFYp/620fa5edf997dd03e2dbadff/mothercare_blue_washed_jogger_jeans_with_bow.jpg",
+      "name": "Washed Jogger Jeans with Bow",
+      "dis_price": "1,000",
+      "og_price": "1,999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211009/5KS3/6160ac2df997ddce890f1299/mothercare_multicoloured_floral_print_top_with_pants.jpg",
+      "name": "Floral Print Top with Pants",
+      "dis_price": "850",
+      "og_price": "1,699",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220909/ModW/631b55ebaeb269dbb37e8d7d/mothercare_blue_zip-front_hooded_bodysuit.jpg",
+      "name": "Zip-Front Hooded Bodysuit",
+      "dis_price": "2,799",
+      "og_price": "3,999",
+      "discount": "30"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220218/nS2H/620fa803aeb26921afa3b078/mothercare_white_printed_sleepsuit_with_embroidery.jpg",
+      "name": "Printed Sleepsuit with Embroidery",
+      "dis_price": "1,189",
+      "og_price": "1,699",
+      "discount": "30"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220218/z6Yo/620fa36af997dd03e2db77ef/mothercare_blue_26_white_pack_of_5_cotton_bodysuits.jpg",
+      "name": "Pack of 5 Cotton Bodysuits",
+      "dis_price": "850",
+      "og_price": "1,699",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211009/nQB1/6160c1c2f997ddce890f5c44/mothercare_pink_26_white_printed_shirt_26_pyjamas_set.jpg",
+      "name": "Printed Shirt & Pyjamas Set",
+      "dis_price": "850",
+      "og_price": "1,699",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20201216/DtAO/5fda047df997dd8c83cfb608/mothercare_blue_denim_flared_dress_with_patch_pocket.jpg",
+      "name": "Denim Flared Dress with Patch Pocket",
+      "dis_price": "750",
+      "og_price": "1,499",
+      "discount": "50"
+  }
+],
+"bedSheets":[
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220325/XZ2Q/623d583af997dd03e2313ff8/homefab_india_grey_floral_print_double_size_bedsheet_with_pillow_covers.jpg",
+      "brand": "Homefab India",
+      "name": "Floral Print Double Size Bedsheet with Pillow Covers",
+      "dis_price": "340",
+      "og_price": "999",
+      "discount": "66"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211116/n6lh/6192a7dbaeb2690110c51aeb/good_homes_blue_checked_144_tc_double_bedsheet_with_2_pillow_covers.jpg",
+      "brand": "Good Homes",
+      "name": "Checked 144 TC Double Bedsheet with 2 Pillow Covers",
+      "dis_price": "468",
+      "og_price": "1,199",
+      "discount": "61"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220215/jRgy/620b94dbf997dd03e2d17027/homefab_india_maroon_140_tc_geometric_print_double_bedsheet_with_pillow_covers.jpg",
+      "brand": "Homefab India",
+      "name": "140 TC Geometric Print Double Bedsheet with Pillow Covers",
+      "dis_price": "340",
+      "og_price": "999",
+      "discount": "66"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211116/qeuw/6192b34daeb2690110c55778/good_homes_navy_heart_printed_bed_sheet_26_pillow_covers.jpg",
+      "brand": "Good Homes",
+      "name": "Heart Printed Bed Sheet & Pillow Covers",
+      "dis_price": "468",
+      "og_price": "1,199",
+      "discount": "61"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221107/jVGF/63691776aeb269659c758bca/home_expressions_usa_multicoloured_printed_double-size_bedsheet_with_pillow_covers.jpg",
+      "brand": "Home Expressions USA",
+      "name": "Printed Double-Size Bedsheet with Pillow Covers",
+      "dis_price": "665",
+      "og_price": "1,899",
+      "discount": "65"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220117/6U8M/61e56cc5f997dd662325e826/homez_sparrow_pink_210_tc_striped_king_bedsheet_with_2_pillow_covers.jpg",
+      "brand": "HOMEZ SPARROW",
+      "name": "210 TC Striped King Bedsheet with 2 Pillow Covers",
+      "dis_price": "440",
+      "og_price": "1,999",
+      "discount": "78"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220929/k8DJ/6335b123f997dd1f8d269d65/portico_yellow_144_tc_floral_print_super_king_size_bedsheet_with_pillow_covers.jpg",
+      "brand": "PORTICO",
+      "name": "144 TC Floral Print Super King Size Bedsheet with Pillow Covers",
+      "dis_price": "1,300",
+      "og_price": "2,599",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220408/xX7N/62502727aeb26921af135bdc/country_home_multi_striped_double_bedsheet_with_pillow_covers.jpg",
+      "brand": "COUNTRY HOME",
+      "name": "Striped Double Bedsheet with Pillow Covers",
+      "dis_price": "630",
+      "og_price": "2,100",
+      "discount": "70"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220103/HeSd/61d347abaeb2695cdd03c8e0/homefab_india_multi_geometric_printed_single_bedsheet_.jpg",
+      "brand": "Homefab India",
+      "name": "Geometric Printed Single Bedsheet",
+      "dis_price": "228",
+      "og_price": "599",
+      "discount": "62"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220218/mSVj/620fa0aff997dd03e2db3ebb/homefab_india_dark_peach_floral_double_bedsheet_with_2_pillow_covers.jpg",
+      "brand": "Homefab India",
+      "name": "Floral Double Bedsheet with 2 Pillow Covers",
+      "dis_price": "340",
+      "og_price": "999",
+      "discount": "66"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221107/H8tI/63691b28f997ddfdbd5bf6f9/home_expressions_usa_multicoloured_printed_double_size_bedsheet_with_pillow_covers.jpg",
+      "brand": "Home Expressions USA",
+      "name": "Printed Double Size Bedsheet with Pillow Covers",
+      "dis_price": "665",
+      "og_price": "1,899",
+      "discount": "65"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220729/aCw3/62e40b1df997dd03e209074d/home_expressions_usa_multicoloured_104_tc_indian_print_double_bedsheet_with_pillow_covers.jpg",
+      "brand": "Home Expressions USA",
+      "name": "104 TC Indian Print Double Bedsheet with Pillow Covers",
+      "dis_price": "665",
+      "og_price": "1,899",
+      "discount": "65"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211116/bxC4/6192ae72aeb2690110c53d44/good_homes_blue_cheerful_floral_144_tc_microfiber_double_fitted_bed_sheet_with_2_pillow_covers.jpg",
+      "brand": "Good Homes",
+      "name": "Cheerful Floral 144 TC Microfiber Double Fitted Bed Sheet with 2 Pillow Covers",
+      "dis_price": "468",
+      "og_price": "1,199",
+      "discount": "61"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220228/Y6Yb/621cb4beaeb26921afba7006/homefab_india_cream_140_tc_leaf_print_double_bedsheet_with_pillow_covers.jpg",
+      "brand": "Homefab India",
+      "name": "140 TC Leaf Print Double Bedsheet with Pillow Covers",
+      "dis_price": "340",
+      "og_price": "999",
+      "discount": "66"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210920/jxpk/614855147cdb8cb8242ae4cc/jaipur_fabric_brown_240_tc_printed_double_bedsheet_with_pillow_covers.jpg",
+      "brand": "Jaipur Fabric",
+      "name": "240 TC Printed Double Bedsheet with Pillow Covers",
+      "dis_price": "880",
+      "og_price": "3,999",
+      "discount": "78"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210920/CZhs/614847b57cdb8cb8242a3962/homefab_india_blue_block_print_double_bedsheet_with_pillow_covers.jpg",
+      "brand": "Homefab India",
+      "name": "Block Print Double Bedsheet with Pillow Covers",
+      "dis_price": "340",
+      "og_price": "999",
+      "discount": "66"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221018/h68c/634dc1caf997ddfdbd2e7b9b/homez_sparrow_blue_striped_king_size_bedsheet_with_pillow_covers.jpg",
+      "brand": "HOMEZ SPARROW",
+      "name": "Striped King Size Bedsheet with Pillow Covers",
+      "dis_price": "420",
+      "og_price": "3,000",
+      "discount": "86"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220221/rJpj/6213a773aeb26921afa5ac57/homefab_india_maroon_140_tc_printed_single_bedsheet_with_pillow_cover.jpg",
+      "brand": "Homefab India",
+      "name": "140 TC Printed Single Bedsheet with Pillow Cover",
+      "dis_price": "228",
+      "og_price": "599",
+      "discount": "62"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220729/jlzE/62e3f428aeb26921afac5d1a/home_expressions_usa_multicoloured_104_tc_floral_print_double_bedsheet_with_pillow_covers.jpg",
+      "brand": "Home Expressions USA",
+      "name": "104 TC Floral Print Double Bedsheet with Pillow Covers",
+      "dis_price": "665",
+      "og_price": "1,899",
+      "discount": "65"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211225/vC53/61c63961f997ddf8f16113b5/homefab_india_blue_140_tc_double_bedsheet_with_pillow_covers.jpg",
+      "brand": "Homefab India",
+      "name": "140 TC Double Bedsheet with Pillow Covers",
+      "dis_price": "340",
+      "og_price": "999",
+      "discount": "66"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220922/Hsk1/632c73c3aeb269dbb39fc2ba/portico_multicoloured_154_tc_super_king_size_printed_bedsheet_with_pillow_covers.jpg",
+      "brand": "PORTICO",
+      "name": "154 TC Super King Size Printed Bedsheet With Pillow Covers",
+      "dis_price": "1,800",
+      "og_price": "3,599",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220928/EKGb/63337ac2aeb269dbb3acf808/homez_sparrow_purple_150_tc_double_bedsheet_with_2_pillow_covers.jpg",
+      "brand": "HOMEZ SPARROW",
+      "name": "150 TC Double Bedsheet with 2 Pillow Covers",
+      "dis_price": "420",
+      "og_price": "3,000",
+      "discount": "86"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220215/iXMu/620b92def997dd03e2d1478c/homefab_india_blue_140_tc_geometric_print_double_bedsheet_with_pillow_covers.jpg",
+      "brand": "Homefab India",
+      "name": "140 TC Geometric Print Double Bedsheet with Pillow Covers",
+      "dis_price": "340",
+      "og_price": "999",
+      "discount": "66"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221224/D6Jw/63a619bbaeb269659c069f74/urban_space_white_printed_king_size_bedsheet_with_pillow_covers.jpg",
+      "brand": "Urban Space",
+      "name": "Printed King Size Bedsheet with Pillow Covers",
+      "dis_price": "500",
+      "og_price": "999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220818/af7S/62fd52c5aeb2691761814f68/homefab_india_grey_140_tc_floral_print_double_bedsheet_with_pillow_covers.jpg",
+      "brand": "Homefab India",
+      "name": "140 TC Floral Print Double Bedsheet with Pillow Covers",
+      "dis_price": "340",
+      "og_price": "999",
+      "discount": "66"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220729/5Rzs/62e4065ff997dd03e208ea68/portico_multicoloured_210_tc_floral_super_king_bedsheet_with_pillow_covers.jpg",
+      "brand": "PORTICO",
+      "name": "210 TC Floral Super King Bedsheet with Pillow Covers",
+      "dis_price": "2,500",
+      "og_price": "4,999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221008/I9mk/6340999caeb269659c2c9a7b/home_sizzler_yellow_210_tc_double_fitted_king_size_bedsheet_pillow_covers.jpg",
+      "brand": "Home Sizzler",
+      "name": "210 TC Double Fitted King Size Bedsheet Pillow Covers",
+      "dis_price": "516",
+      "og_price": "1,199",
+      "discount": "57"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220122/fmqw/61eb1b9af997dd662335e803/homez_sparrow_blue_180_tc_floral_woven_double_bedcover_with_pillow_covers.jpg",
+      "brand": "HOMEZ SPARROW",
+      "name": "180 TC Floral Woven Double Bedcover with Pillow Covers",
+      "dis_price": "510",
+      "og_price": "2,999",
+      "discount": "83"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220122/Azoi/61eb26ebaeb2695cdd297601/homez_sparrow_green_210_tc_striped_king_bedsheet_with_pillow_covers.jpg",
+      "brand": "HOMEZ SPARROW",
+      "name": "210 TC Striped King Bedsheet with Pillow Covers",
+      "dis_price": "440",
+      "og_price": "1,999",
+      "discount": "78"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210920/tPxF/614860407cdb8cb8242b6c9c/huesland_purple_floral_print_bedsheet_with_3_pillow_covers.jpg",
+      "brand": "Huesland",
+      "name": "Floral Print Bedsheet with 3 Pillow Covers",
+      "dis_price": "587",
+      "og_price": "995",
+      "discount": "41"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220117/zDQO/61e56acbf997dd662325c9df/homez_sparrow_multicoloured_104_tc_printed_double_bedsheet_with_2_pillow_covers.jpg",
+      "brand": "HOMEZ SPARROW",
+      "name": "104 TC Printed Double Bedsheet with 2 Pillow Covers",
+      "dis_price": "420",
+      "og_price": "1,500",
+      "discount": "72"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220802/PONX/62e96671f997dd03e21bc9b0/mafatlal_pink_pure_cotton_abstract_double_bedsheet_with_2_pillow_covers.jpg",
+      "brand": "Mafatlal",
+      "name": "Pure Cotton Abstract Double Bedsheet With 2 Pillow Covers",
+      "dis_price": "768",
+      "og_price": "2,399",
+      "discount": "68"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220303/aCja/6220d965f997dd03e2ffb8f8/portico_multicoloured_graphic_print_king_size_bedsheet_with_2_pillow_covers.jpg",
+      "brand": "PORTICO",
+      "name": "Graphic Print King Size Bedsheet with 2 Pillow Covers",
+      "dis_price": "1,000",
+      "og_price": "1,999",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220914/BGij/6321be8daeb269dbb38a386e/homefab_india_light_blue_graphic_print_flat_bedsheet_with_2_pillow_covers.jpg",
+      "brand": "Homefab India",
+      "name": "Graphic Print Flat Bedsheet with 2 Pillow Covers",
+      "dis_price": "340",
+      "og_price": "999",
+      "discount": "66"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220223/TC8k/62161f28f997dd03e2eae268/homefab_india_grey_single_bedsheet_with_1_pillow_cover.jpg",
+      "brand": "Homefab India",
+      "name": "Single Bedsheet with 1 Pillow Cover",
+      "dis_price": "228",
+      "og_price": "599",
+      "discount": "62"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210828/KQVv/612971147cdb8cb8240b0358/portico_multicoloured_floral_print_double_size_bedsheet_with_2_pillow_covers.jpg",
+      "brand": "PORTICO",
+      "name": "Floral Print Double Size Bedsheet with 2 Pillow Covers",
+      "dis_price": "1,050",
+      "og_price": "2,099",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220218/r74i/620fa424f997dd03e2db8767/homefab_india_brown_140_tc_floral_print_double_bedsheet_with_pillow_covers.jpg",
+      "brand": "Homefab India",
+      "name": "140 TC Floral Print Double Bedsheet with Pillow Covers",
+      "dis_price": "340",
+      "og_price": "999",
+      "discount": "66"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210920/lEse/6148423f7cdb8cb82429bb37/homefab_india_brown_leaf_print_double_bedsheet_with_pillow_covers.jpg",
+      "brand": "Homefab India",
+      "name": "Leaf Print Double Bedsheet with Pillow Covers",
+      "dis_price": "340",
+      "og_price": "999",
+      "discount": "66"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221008/QOAj/63409986aeb269659c2c99ab/home_sizzler_grey_210_tc_double_fitted_king_size_bedsheet_pillow_covers.jpg",
+      "brand": "Home Sizzler",
+      "name": "210 TC Double Fitted King Size Bedsheet Pillow Covers",
+      "dis_price": "516",
+      "og_price": "1,199",
+      "discount": "57"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220107/ZjPS/61d75d13f997dd6623140df4/homefab_india_multi_graphic_printed_flat_bedsheets.jpg",
+      "brand": "Homefab India",
+      "name": "Graphic Printed Flat Bedsheets",
+      "dis_price": "228",
+      "og_price": "599",
+      "discount": "62"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221012/bM9C/634701e7f997ddfdbd24f96b/homez_sparrow_sage_green_striped_king_bedsheet_with_pillow_covers_.jpg",
+      "brand": "HOMEZ SPARROW",
+      "name": "Striped King Bedsheet with Pillow Covers",
+      "dis_price": "420",
+      "og_price": "3,000",
+      "discount": "86"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211116/hj2e/6192ad95aeb2690110c53855/good_homes_grey_graphic_print_144_tc_double_bedsheet_with_2_pillow_covers.jpg",
+      "brand": "Good Homes",
+      "name": "Graphic Print 144 TC Double Bedsheet with 2 Pillow Covers",
+      "dis_price": "468",
+      "og_price": "1,199",
+      "discount": "61"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220408/PRp2/624f54efaeb26921af1239f3/homefab_india_multicolored_striped_single_size_bedsheet.jpg",
+      "brand": "Homefab India",
+      "name": "Striped Single Size Bedsheet",
+      "dis_price": "228",
+      "og_price": "599",
+      "discount": "62"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220702/k0Bq/62bf7344f997dd03e2b362a0/duroflex_white_duroflex_alora_cream__cotton_120_tc_antibacterial_bedsheet_set_double_size_bedsheet_with_2_pillow_covers.jpg",
+      "brand": "Duroflex",
+      "name": "Duroflex Alora Cream  Cotton 120 TC Antibacterial Bedsheet Set Double Size Bedsheet With 2 Pillow Covers",
+      "dis_price": "658",
+      "og_price": "1,399",
+      "discount": "53"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221126/ULJl/638200d8aeb269659cb942c5/klotthe_multicoloured_250_tc_geometric_print_woolen_double_bedsheet.jpg",
+      "brand": "KLOTTHE",
+      "name": "250 TC Geometric Print Woolen Double Bedsheet",
+      "dis_price": "1,439",
+      "og_price": "5,329",
+      "discount": "73"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221107/tSoo/63691ea8aeb269659c7607eb/home_expressions_usa_white_26_pink_printed_double_size_bedsheet_with_pillow_covers.jpg",
+      "brand": "Home Expressions USA",
+      "name": "Printed Double Size Bedsheet with Pillow Covers",
+      "dis_price": "665",
+      "og_price": "1,899",
+      "discount": "65"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220223/3Hij/62161ef9f997dd03e2eade5b/homefab_india_black_single_bedsheet_with_1_pillow_cover.jpg",
+      "brand": "Homefab India",
+      "name": "Single Bedsheet with 1 Pillow Cover",
+      "dis_price": "228",
+      "og_price": "599",
+      "discount": "62"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210828/zkAF/61298e1bf997ddce89b060df/portico_multicoloured_geometric_print_single_size_bedsheet_with_1_pillow_cover.jpg",
+      "brand": "PORTICO",
+      "name": "Geometric Print Single Size Bedsheet with 1 Pillow Cover",
+      "dis_price": "700",
+      "og_price": "1,399",
+      "discount": "50"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211116/S0cR/6192b05faeb2690110c546ee/good_homes_white_striped_144_tc_double_bedsheet_with_2_pillow_covers.jpg",
+      "brand": "Good Homes",
+      "name": "Striped 144 TC Double Bedsheet with 2 Pillow Covers",
+      "dis_price": "504",
+      "og_price": "1,199",
+      "discount": "58"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210920/N2kF/614856d97cdb8cb8242afa47/jaipur_fabric_multi_240_tc_king_size_bedsheet_with_2_pillow_.jpg",
+      "brand": "Jaipur Fabric",
+      "name": "240 TC King Size Bedsheet with 2 Pillow",
+      "dis_price": "1,399",
+      "og_price": "",
+      "discount": ""
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220518/CIVO/6284b959aeb26921af9e07a0/mafatlal_grey_210_tc_floral_print_king-size_bedsheet_with_pillow_covers.jpg",
+      "brand": "Mafatlal",
+      "name": "210 TC Floral Print King-Size Bedsheet with Pillow Covers",
+      "dis_price": "816",
+      "og_price": "2,399",
+      "discount": "66"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220420/XVjx/62601424aeb26921af3117ce/good_homes_blue_stripes_double_bed_sheet_with_2_pillow_cover.jpg",
+      "brand": "Good Homes",
+      "name": "Stripes double bed sheet with 2 pillow cover",
+      "dis_price": "330",
+      "og_price": "1,099",
+      "discount": "70"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211231/rMWt/61cec1bcaeb2695cdd0027fd/homefab_india_white_140_tc_floral_print_single_bedsheet_with_pillow_cover.jpg",
+      "brand": "Homefab India",
+      "name": "140 TC Floral Print Single Bedsheet with Pillow Cover",
+      "dis_price": "228",
+      "og_price": "599",
+      "discount": "62"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220304/9vin/622229fef997dd03e201a381/home_expressions_usa_multicoloured_120_tc__indian_print_polycotton_double_bedsheet_with_2_pillow_covers.jpg",
+      "brand": "Home Expressions USA",
+      "name": "120 TC  Indian Print Polycotton Double Bedsheet with 2 Pillow Covers",
+      "dis_price": "595",
+      "og_price": "1,699",
+      "discount": "65"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220121/e3sY/61ea0d55aeb2695cdd22e874/homez_sparrow_multicoloured_104_tc_floral_print_double_size_bedsheet_with_pillow_covers.jpg",
+      "brand": "HOMEZ SPARROW",
+      "name": "104 TC Floral Print Double Size Bedsheet with Pillow Covers",
+      "dis_price": "420",
+      "og_price": "1,500",
+      "discount": "72"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220324/DJCf/623c2a56f997dd03e22a3e02/bella_casa_multi_110_tc_cotton_1_queen_size_double_bedsheet_with_2_pillow_covers_.jpg",
+      "brand": "BELLA CASA",
+      "name": "110 TC Cotton 1 Queen Size Double Bedsheet with 2 Pillow Covers",
+      "dis_price": "494",
+      "og_price": "899",
+      "discount": "45"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220820/WYlC/630028fdf997dd394c09591c/haus_26_kinder_pink_printed_double_bedsheet_with_pillow_covers.jpg",
+      "brand": "Haus & Kinder",
+      "name": "Printed Double Bedsheet with Pillow Covers",
+      "dis_price": "960",
+      "og_price": "1,999",
+      "discount": "52"
+  },
+  {
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220929/BgNm/6335b37df997dd1f8d26ac76/portico_multicoloured_144_tc_geometric_print_super_king_size_bedsheet_with_pillow_covers.jpg",
+      "brand": "PORTICO",
+      "name": "144 TC Geometric Print Super King Size Bedsheet with Pillow Covers",
+      "dis_price": "1,300",
+      "og_price": "2,599",
+      "discount": "50"
+  }
+]
 }
